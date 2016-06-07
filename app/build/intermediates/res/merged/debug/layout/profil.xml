@@ -269,7 +269,7 @@
                     android:paddingLeft="25dp"
                     android:paddingRight="25dp"
                     android:text="Se connecter sur linkedin"
-                    android:background="@color/blue"
+                    android:background="@drawable/blue_button_shape"
                     android:textColor="@color/colorAccent"/>
 
             </LinearLayout>

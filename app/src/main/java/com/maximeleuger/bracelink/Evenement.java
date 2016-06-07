@@ -1,10 +1,10 @@
 package com.maximeleuger.bracelink;
 
-import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
 import android.view.WindowManager;
 
-public class ProfilActivity extends AppCompatActivity {
+public class Evenement extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -13,8 +13,6 @@ public class ProfilActivity extends AppCompatActivity {
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
-        setContentView(R.layout.profil);
-
+        setContentView(R.layout.activity_evenement);
     }
-
 }
