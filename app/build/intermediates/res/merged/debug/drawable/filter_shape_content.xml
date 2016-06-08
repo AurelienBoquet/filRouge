@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#222531"/>
+            <!--corners allow us to make the rounded corners button-->
+            <corners android:radius="2dp" />
+        </shape>
+    </item>
+</selector><!-- From: file:/Users/gatsbill/Desktop/Fil%20Rouge/BraceLinkApp/app/src/main/res/drawable/filter_shape_content.xml -->
